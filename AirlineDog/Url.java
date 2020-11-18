@@ -12,5 +12,6 @@ public class Url{
 		} catch (IOException ex) {
 			Logger.getLogger(Url.class.getName()).log(Level.SEVERE, null, ex);
 		}
+		System.out.println("eimai h evaggelia");
 	}
 }
